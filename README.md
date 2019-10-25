@@ -16,6 +16,7 @@ The original program, available at http://mauricio.resende.info/tttplots/ only a
 Reference for TTT plots: http://www2.ic.uff.br/~celso/artigos/tttplots.pdf
 
 Instructions of use:
+
 Option 1: clone repository
 1. Clone the repository: git clone https://github.com/helenocampos/multiTTTPlot.git
 2. Build the project: mvn install
