@@ -16,11 +16,12 @@ The original program, available at http://mauricio.resende.info/tttplots/ only a
 Reference for TTT plots: http://www2.ic.uff.br/~celso/artigos/tttplots.pdf
 
 Instructions of use:
-
+Option 1: clone repository
 1. Clone the repository: git clone https://github.com/helenocampos/multiTTTPlot.git
 2. Build the project: mvn install
 3. Go to the target folder and the binary will be there (multiTTT.jar)
 
+Option 2: download binary (.jar) from [releases page](https://github.com/helenocampos/multiTTTPlot/releases)
 
 How to use the binary:
 Arguments: number_of_input_files input_file_1 input_file_2 input_file_3
